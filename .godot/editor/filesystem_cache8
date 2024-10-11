@@ -1,9 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728635986
+::res://::1728636928
 icon.svg::CompressedTexture2D::5398729546502991180::1728635919::1728635986::1::::<><>::
 README.md::TextFile::-1::1728635919::0::1::::<><>::
 ::res://music/::1728635919
 ::res://music making/::1728635919
-::res://scenes/::1728635919
+::res://scenes/::1728636928
+ Player.tscn::PackedScene::5060844216191937697::1728636805::0::1::::<><>::
 ::res://Sprite making/::1728635919
-::res://sprites/::1728635919
+::res://sprites/::1728637067
+main character idle.png::CompressedTexture2D::4706246391905304839::1728637067::1728637070::1::::<><>::
