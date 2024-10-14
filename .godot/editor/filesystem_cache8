@@ -1,11 +1,14 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728636928
-icon.svg::CompressedTexture2D::5398729546502991180::1728635919::1728635986::1::::<><>::
-README.md::TextFile::-1::1728635919::0::1::::<><>::
-::res://music/::1728635919
-::res://music making/::1728635919
-::res://scenes/::1728636928
- Player.tscn::PackedScene::5060844216191937697::1728636805::0::1::::<><>::
-::res://Sprite making/::1728635919
-::res://sprites/::1728637067
-main character idle.png::CompressedTexture2D::4706246391905304839::1728637067::1728637070::1::::<><>::
+::res://::1728896192
+icon.svg::CompressedTexture2D::5398729546502991180::1728612895::1728896192::1::::<><>::
+README.md::TextFile::-1::1728614683::0::1::::<><>::
+::res://music/::1728614252
+::res://scenes/::1728897901
+ Player.tscn::PackedScene::5060844216191937697::1728897928::0::1::::<><>::res://scenes/_player.gd<>uid://b8b0gqg06s6g6::::res://sprites/main character idle.png
+_player.gd::GDScript::-1::1728896658::0::1::::<>CharacterBody2D<>::
+world.tscn::PackedScene::5488279354684847327::1728897926::0::1::::<><>::uid://cedrmn00u7e8p::::res://scenes/ Player.tscn<>uid://dwb4gw060jbpq::::res://sprites/stupid.png
+::res://Sprite making/::1728895516
+::res://sprites/::1728897539
+main character idle.png::CompressedTexture2D::4706246391905304839::1728895516::1728896192::1::::<><>::
+stupid.png::CompressedTexture2D::8707253691999807754::1728897515::1728897539::1::::<><>::
+::res://sprites/music making/::1728895516

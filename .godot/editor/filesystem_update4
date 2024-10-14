@@ -1,2 +1,4 @@
 res://scenes/ Player.tscn
+res://scenes/_player.gd
 res://scenes/world.tscn
+res://scenes/test world.tscn

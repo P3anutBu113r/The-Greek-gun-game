@@ -21,7 +21,7 @@ animations = [{
 "texture": SubResource("AtlasTexture_vevrm")
 }],
 "loop": true,
-"name": &"default",
+"name": &"Idle right",
 "speed": 1.0
 }]
 
@@ -34,7 +34,7 @@ script = ExtResource("1_begoy")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(1, -32)
 sprite_frames = SubResource("SpriteFrames_7t288")
-frame_progress = 0.340834
+animation = &"Idle right"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-1, -6)

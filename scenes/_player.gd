@@ -1,25 +1,23 @@
 extends CharacterBody2D
+#the declaration
+var input: Vector2
+@export var speed = 100
+
+func _ready() -> void:
+	$AnimatedSprite2D.play("Idle right")
+func _physics_process(delta):
+	player_movement(delta)
+func get_input():
+	input.x = Input.get_action_strength("ui_right") - Input.get_action_strength("ui_left")
+	input.y = Input.get_action_strength("ui_down") - Input.get_action_strength("ui_up")
+	input = input.normalized()
+func player_movement(delta):
+	var player_input = get_input()
+	
 
 
-const SPEED = 300.0
-const JUMP_VELOCITY = -400.0
-
-
-func _physics_process(delta: float) -> void:
-	# Add the gravity.
-	if not is_on_floor():
-		velocity += get_gravity() * delta
-
-	# Handle jump.
-	if Input.is_action_just_pressed("ui_accept") and is_on_floor():
-		velocity.y = JUMP_VELOCITY
-
-	# Get the input direction and handle the movement/deceleration.
-	# As good practice, you should replace UI actions with custom gameplay actions.
-	var direction := Input.get_axis("ui_left", "ui_right")
-	if direction:
-		velocity.x = direction * SPEED
+	if player_input == Vector2.ZERO:
+		velocity = Vector2.ZERO
 	else:
-		velocity.x = move_toward(velocity.x, 0, SPEED)
-
+		velocity = input * speed
 	move_and_slide()
