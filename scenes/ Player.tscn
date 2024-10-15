@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://cedrmn00u7e8p"]
 
-[ext_resource type="Script" path="res://scenes/_player.gd" id="1_begoy"]
+[ext_resource type="Script" path="res://scripts/_player.gd" id="1_begoy"]
 [ext_resource type="Texture2D" uid="uid://b8b0gqg06s6g6" path="res://sprites/main character idle.png" id="2_txubs"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ev1g3"]

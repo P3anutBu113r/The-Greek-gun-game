@@ -1,7 +1,8 @@
 extends CharacterBody2D
 #the declaration
 var input: Vector2
-@export var speed = 100
+@export var speed = 500
+
 
 func _ready() -> void:
 	$AnimatedSprite2D.play("Idle right")
