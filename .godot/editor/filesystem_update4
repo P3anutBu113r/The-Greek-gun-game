@@ -1,11 +1,16 @@
-res://scenes/room spawner.tscn
-res://scenes/test tileset.tres
-res://scenes/ Player.tscn
-res://scenes/test world.tscn
 res://scenes/Rooms/start.tscn
+res://scenes/test tileset.tres
+res://scenes/Rooms/up right left split.tscn
+res://scenes/ Player.tscn
+res://scripts/TestRooms.gd
+res://scenes/test world.tscn
+res://scenes/room spawner.tscn
 res://scenes/Rooms/L_closed.tscn
 res://scenes/Rooms/Up down hallway.tscn
 res://scenes/Rooms/side hallway.tscn
 res://scenes/Rooms/right closed.tscn
 res://scenes/Rooms/Up end.tscn
 res://scenes/Rooms/Down end.tscn
+res://scenes/Rooms/down right left split.tscn
+res://scripts/marker_2d.gd
+res://scripts/_player.gd

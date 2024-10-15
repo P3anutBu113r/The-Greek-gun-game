@@ -26,11 +26,11 @@ direction = 1
 position = Vector2(-288, 0)
 direction = 4
 
-[node name="Marker2D4" parent="." instance=ExtResource("2_rdln6")]
-position = Vector2(0, 288)
-direction = 3
-
 [node name="Area2D" type="Area2D" parent="."]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
 shape = SubResource("CircleShape2D_eg5ri")
+
+[node name="Marker2D4" parent="." instance=ExtResource("2_rdln6")]
+position = Vector2(0, 288)
+direction = 3

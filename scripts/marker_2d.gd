@@ -68,4 +68,3 @@ func _on_generating_timer_timeout() -> void:
 
 func _on_room_detection_area_entered(area: Area2D) -> void:
 	generating = false
-	print("hi")

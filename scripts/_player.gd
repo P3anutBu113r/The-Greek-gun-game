@@ -1,7 +1,7 @@
 extends CharacterBody2D
 #the declaration
 var input: Vector2
-@export var speed = 500
+@export var speed = 100
 
 
 func _ready() -> void:
