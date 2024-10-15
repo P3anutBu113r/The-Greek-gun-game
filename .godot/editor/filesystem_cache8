@@ -1,26 +1,26 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728974282
+::res://::1728987510
 icon.svg::CompressedTexture2D::5398729546502991180::1728635919::1728950933::1::::<><>::
 ::res://music/::1728635919
 ::res://music making/::1728947905
-::res://scenes/::1728979378
- Player.tscn::PackedScene::5060844216191937697::1728979378::0::1::::<><>::res://scripts/_player.gd<>uid://b8b0gqg06s6g6::::res://sprites/main character idle.png
-room spawner.tscn::PackedScene::6943656216451034028::1728979378::0::1::::<><>::res://scripts/marker_2d.gd
+::res://scenes/::1728981866
+ Player.tscn::PackedScene::5060844216191937697::1728981866::0::1::::<><>::res://scripts/_player.gd<>uid://b8b0gqg06s6g6::::res://sprites/main character idle.png
+room spawner.tscn::PackedScene::6943656216451034028::1728981866::0::1::::<><>::res://scripts/marker_2d.gd
 test tileset.tres::TileSet::6352130453078493453::1728966799::0::1::::<><>::uid://dwb4gw060jbpq::::res://sprites/stupid.png<>uid://2ora08wmukxt::::res://sprites/test.png
-test world.tscn::PackedScene::5488279354684847327::1728979378::0::1::::<><>::uid://cedrmn00u7e8p::::res://scenes/ Player.tscn<>uid://d5yto88tplb4::::res://scenes/Rooms/start.tscn
-::res://scenes/Rooms/::1728979878
+test world.tscn::PackedScene::5488279354684847327::1728981866::0::1::::<><>::uid://cedrmn00u7e8p::::res://scenes/ Player.tscn<>uid://d5yto88tplb4::::res://scenes/Rooms/start.tscn
+::res://scenes/Rooms/::1728981866
+Down end.tscn::PackedScene::5126738409036641730::1728981866::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
 down hallway.tscn::PackedScene::3024226758743559943::1728974850::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
-L_closed.tscn::PackedScene::456783566026138191::1728979379::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres
-Down end.tscn::PackedScene::5126738409036641730::1728979907::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
-right closed.tscn::PackedScene::6490644090546811404::1728979785::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
-side hallway.tscn::PackedScene::8825455729437093343::1728979680::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
-start.tscn::PackedScene::273989789277288051::1728979379::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
-Up down hallway.tscn::PackedScene::8808350108267365688::1728979539::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
-Up end.tscn::PackedScene::2298955377341044570::1728979878::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
-::res://scripts/::1728979785
+L_closed.tscn::PackedScene::456783566026138191::1728981866::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
+right closed.tscn::PackedScene::6490644090546811404::1728981866::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
+side hallway.tscn::PackedScene::8825455729437093343::1728981866::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
+start.tscn::PackedScene::273989789277288051::1728981866::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
+Up down hallway.tscn::PackedScene::8808350108267365688::1728981866::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
+Up end.tscn::PackedScene::2298955377341044570::1728981866::0::1::::<><>::uid://cwrawpspyie0l::::res://scenes/test tileset.tres<>uid://c56tad6181neq::::res://scenes/room spawner.tscn
+::res://scripts/::1728981553
 _player.gd::GDScript::-1::1728974407::0::1::::<>CharacterBody2D<>::
-marker_2d.gd::GDScript::-1::1728979289::0::1::::<>Marker2D<>::
-TestRooms.gd::GDScript::-1::1728979785::0::1::::<>Node<>::
+marker_2d.gd::GDScript::-1::1728981553::0::1::::<>Marker2D<>::
+TestRooms.gd::GDScript::-1::1728980323::0::1::::<>Node<>::
 ::res://Sprite making/::1728635919
 ::res://sprites/::1728959570
 main character idle.png::CompressedTexture2D::4706246391905304839::1728637067::1728950933::1::::<><>::

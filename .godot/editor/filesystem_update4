@@ -1,14 +1,9 @@
-res://scenes/test world.tscn
-res://scenes/test tileset.tres
-res://scenes/start.tscn
 res://scenes/room spawner.tscn
+res://scenes/test tileset.tres
 res://scenes/ Player.tscn
-res://scripts/TestRooms.gd
-res://scripts/marker_2d.gd
+res://scenes/test world.tscn
 res://scenes/Rooms/start.tscn
-res://scenes/Rooms/l_closed.tscn
 res://scenes/Rooms/L_closed.tscn
-res://scripts/_player.gd
 res://scenes/Rooms/Up down hallway.tscn
 res://scenes/Rooms/side hallway.tscn
 res://scenes/Rooms/right closed.tscn
